@@ -1,5 +1,5 @@
 # adopt-app
-#description
+
 A simple pet adopting app 
 Vuex
 
